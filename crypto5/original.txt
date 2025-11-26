@@ -1,0 +1,4 @@
+This is the original, pristine content of the file.
+We are using this file to demonstrate how hashing works.
+Any change to even a single character will completely alter the resulting hash values.
+Integrity is ke.
